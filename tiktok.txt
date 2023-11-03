@@ -1,0 +1,13 @@
+# Title: chippokiddo's TikTok blocklist
+# Description: Blocks TikTok advertisements
+
+0.0.0.0 api16-core.tiktokv.com
+0.0.0.0 api22-core.tiktokv.com
+0.0.0.0 api22-normal-c-alisg.tiktokv.com
+0.0.0.0 pull-f5-va01.tiktokcdn.com 
+0.0.0.0 pull-f5-gcp01.tiktokcdn.com
+0.0.0.0 pull-flv-l11-sg01.tiktokcdn.com
+0.0.0.0 v3.tiktokcdn.com
+0.0.0.0 v16.tiktokcdn.com
+0.0.0.0 v45-p.tiktokcdn.com
+0.0.0.0 v53.tiktokcdn.com
