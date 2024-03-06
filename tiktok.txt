@@ -1,0 +1,11 @@
+# Title: chippokiddo's TikTok List
+
+0.0.0.0 bytedance.map.fastly.net
+0.0.0.0 ctr.tt-sw.swiftserve.com
+0.0.0.0 direct.quic-core-proxy-gcpsg-v3.gcpsg.byteglb.com
+0.0.0.0 edge.bytedance.swiftserve.com
+0.0.0.0 pull-base1.s.bytefcdn-ttpeu.com
+0.0.0.0 perf.rpm.byteoversea.net
+0.0.0.0 uxlive-tlive.v.spbycdn.com
+0.0.0.0 zbdhwph.v.ecdnx.com
+0.0.0.0 v3.tiktokcdn.com.queniuaa.com
