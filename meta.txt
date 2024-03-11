@@ -1,6 +1,0 @@
-# Title: chippokiddo's Meta List
-
-0.0.0.0 star.c10r.facebook.com
-0.0.0.0 star.fallback.c10r.facebook.com
-0.0.0.0 instagram.c10r.instagram.com
-0.0.0.0 netseer-ipaddr-assoc.xy.fbcdn.net
